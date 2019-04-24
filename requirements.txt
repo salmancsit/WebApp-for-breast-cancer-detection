@@ -91,7 +91,6 @@ ijson==2.3
 imagesize==0.7.1
 infinity==1.4
 intervals==0.8.0
-ipaddr==2.1.11
 ipaddress==1.0.18
 ipdb==0.10.2
 ipykernel==4.5.2
