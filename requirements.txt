@@ -145,7 +145,6 @@ piston-mini-client==0.7.5
 pluggy==0.4.0
 poyo==0.4.0
 prettytensor==0.7.4
-progressbar==2.3
 prompt-toolkit==1.0.9
 protobuf==3.2.0
 psycopg2==2.6.2
